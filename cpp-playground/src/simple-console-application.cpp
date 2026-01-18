@@ -1,7 +1,7 @@
 #include <iostream>   // Allows input/output
 using namespace std;
 
-int main() {
+int bbb() {
     // Store fictional personal information
     string firstName = "Harry";
     string lastName = "Potter";
